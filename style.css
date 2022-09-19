@@ -1,0 +1,28 @@
+.utama {
+  background-image: url("./img/hati2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.link,
+.link:link,
+.link:active,
+.link:visited {
+  font-size: 50px;
+  color: #fff;
+  background: #1abc9c;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.link:hover {
+  background: #33cc33;
+}
+
+.bg {
+  background-position: center;
+}
+
+.para {
+  font-size: 50px;
+}
